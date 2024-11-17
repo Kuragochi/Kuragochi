@@ -2,4 +2,4 @@
 
 ###
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xFalzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/xFalzz)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Kuragochi&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Kuragochi)
